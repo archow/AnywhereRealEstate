@@ -1,0 +1,5 @@
+<resources>
+    <string name="character_name_text">Character Name</string>
+    <string name="character_description_text">Character Description</string>
+    <string name="character_picture">Character Picture</string>
+</resources>
